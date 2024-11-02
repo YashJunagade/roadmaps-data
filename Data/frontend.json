@@ -2155,7 +2155,7 @@
         ]
       }
     },
-    "JavascriptF": {
+    "Javascript FrameworkF": {
       "React JS": {
         "suggestedTime": 500,
         "Basic": {
@@ -4252,7 +4252,7 @@
         }
       }
     },
-    "CSSF": {
+    "CSS FrameworkF": {
       "Tailwind CSS": {
         "suggestedTime": 500,
         "Basic": {
@@ -9119,7 +9119,7 @@
         ]
       }
     },
-    "JavascriptF": {
+    "Javascript FrameworkF": {
       "React JS": {
         "suggestedTime": 500,
         "Basic": {
@@ -11216,7 +11216,7 @@
         }
       }
     },
-    "CSSF": {
+    "CSS FrameworkF": {
       "Tailwind CSS": {
         "suggestedTime": 500,
         "Basic": {
@@ -16083,7 +16083,7 @@
         ]
       }
     },
-    "JavascriptF": {
+    "Javascript FrameworkF": {
       "React JS": {
         "suggestedTime": 500,
         "Basic": {
@@ -18180,7 +18180,7 @@
         }
       }
     },
-    "CSSF": {
+    "CSS FrameworkF": {
       "Tailwind CSS": {
         "suggestedTime": 500,
         "Basic": {
